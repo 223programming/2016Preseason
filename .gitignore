@@ -1,0 +1,4 @@
+*.lvproj
+*.lvlps
+*.aliases
+!223SwerveCodeMK_2.lvproj
